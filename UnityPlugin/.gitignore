@@ -1,0 +1,14 @@
+# .gitignore for Xcode, http://stackoverflow.com/questions/49478/git-ignore-file-for-xcode-projects
+.DS_Store
+.Trashes
+*.swp
+*.lock
+*~.nib
+DerivedData/
+build/
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+xcuserdata
+*.moved-aside
